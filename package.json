@@ -1,0 +1,18 @@
+{
+  "name": "yobert-tag",
+  "description": "A simple dom creation helper",
+  "author": "yobert@gmail.com",
+  "version": "0.0.1",
+  "main": "main.js",
+  "dependencies": {
+    "yobert-append": "0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yobert-npmjs/tag"
+  },
+  "bugs": {
+    "url": "https://github.com/yobert-npmjs/tag/issues"
+  },
+  "license": "MIT"
+}
