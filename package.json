@@ -2,7 +2,7 @@
   "name": "yobert-tag",
   "description": "A simple dom creation helper",
   "author": "yobert@gmail.com",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "main.js",
   "dependencies": {
     "yobert-append": "0.0.1"

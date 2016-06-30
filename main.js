@@ -19,7 +19,7 @@ function tag() {
 		}
 	}
 	for(var i = 2; i < arguments.length; i++) {
-		_append_v(e, arguments[i]);
+		append(e, arguments[i]);
 	}
 	return e;
 }
